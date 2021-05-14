@@ -1,6 +1,6 @@
 # LatLong API
 
-An API that retrieves information about latitude and longitude of countries and brazilian cities and states, and calculates the distance between two cities.
+A Spring API that retrieves information about latitude and longitude of countries and brazilian cities and states, and calculates the distance between two cities.
 
 This project was developed based on the [everis](https://www.everis.com) Quality Assurance Beginner bootcamp, provided by [Digital Innovation One](https://digitalinnovation.one/), lasting 44 hours.
 
